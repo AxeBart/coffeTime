@@ -1,0 +1,22 @@
+[
+    {
+        "name" : "Carte noir",
+        "price" : 5.99,
+        "desc" : "Lorem ipsum dolore amet sit deprata listomb"
+    },
+    {
+        "name" : "Expresso",
+        "price" : 5.99,
+        "desc" : "Lorem ipsum dolore amet sit deprata listomb"
+    },
+    {
+        "name" : "Vanilla Coffe",
+        "price" : 5.99,
+        "desc" : "Lorem ipsum dolore amet sit deprata listomb"
+    },
+    {
+        "name" : "Carioca",
+        "price" : 5.99,
+        "desc" : "Lorem ipsum dolore amet sit deprata listomb"
+    }
+]
